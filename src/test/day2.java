@@ -31,6 +31,7 @@ public class day2
 		System.out.println("I need to verify Asian");
 		System.out.println("I need to verify Asian");
 		System.out.println("I need to verify Asian");
+		System.out.println("I need to verify Asian");
 	}
 
 }
