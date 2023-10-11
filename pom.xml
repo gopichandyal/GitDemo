@@ -29,7 +29,7 @@
     <version>2.0.7</version>
 </dependency>
  <dependency>
- 	<groupId>gopitest</groupId>
+ 	<groupId>gopitest1</groupId>
  	<artifactId>selenium-java</artifactId>
  	<version>0.0.1-SNAPSHOT</version>
  </dependency>
