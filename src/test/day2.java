@@ -22,5 +22,15 @@ public class day2
 		System.out.println("I need to verify first");
 		System.out.println("I need to verify first");
 	}
+	@BeforeTest
+	public void prerequisite12()
+	{
+		System.out.println("I need to verify Asian");
+		System.out.println("I need to verify Asian");
+		System.out.println("I need to verify Asian");
+		System.out.println("I need to verify Asian");
+		System.out.println("I need to verify Asian");
+		System.out.println("I need to verify Asian");
+	}
 
 }
