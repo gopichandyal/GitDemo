@@ -27,5 +27,11 @@ public class day4
 		//REST API Automation
 		System.out.println("Login API Home");
 	}
+	@Test
+	public void LoginAPIHome1()
+	{
+		//REST API Automation
+		System.out.println("Login API Hom1e");
+	}
 
 }

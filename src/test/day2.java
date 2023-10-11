@@ -14,6 +14,13 @@ public class day2
 	public void prerequisite()
 	{
 		System.out.println("I need to verify first");
+		System.out.println("I need to verify first");
+		System.out.println("I need to verify first");
+		System.out.println("I need to verify first");
+		System.out.println("I need to verify first");
+		System.out.println("I need to verify first");
+		System.out.println("I need to verify first");
+		System.out.println("I need to verify first");
 	}
 
 }
